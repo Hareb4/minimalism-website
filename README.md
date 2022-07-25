@@ -1,4 +1,4 @@
-# cMvGbZfr
+# minimalism website
 
 ## About Scrimba
 
